@@ -1,1 +1,2 @@
-line added by User 1
+Combined changed by user 1 and user 2
+
